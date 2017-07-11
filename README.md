@@ -8,18 +8,18 @@ Conheça mais sobre o projeto e suas datas clicando [aqui](http://iscool.operand
 
 ### Conteúdo proposto
 
-1. [GIT Básico](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/Git-basico/git.md)
-2. [Docker Básico](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/Docker-basico/docker.md)
-3. [PHP Básico](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/PHP-basico/README.md)
-4. [PHP OO](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/PHP-OO/README.md)
-5. [Phalcon 2](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/Phalcon/README.md)
-6. [MySQL - Relacionamentos, Índices e PDO](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/MySQL/README.md)
-7. [API REST Básico](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/API-REST/README.md)
-8. [Phalcon Micro e Postman [Projeto]](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/Phalcon-Micro/README.md)
-9. [HTML/CSS/JS](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/HTML/README.md)
-10. [Bootstrap](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/Bootstrap/README.md)
-11. [Axios](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/Axios/README.md)
-12. [Vue.js](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/Vue.js/README.md)
+1. [GIT Básico](https://github.com/operandbr/operand-is-cool/blob/master/Git-basico/git.md)
+2. [Docker Básico](https://github.com/operandbr/operand-is-cool/blob/master/Docker-basico/docker.md)
+3. [PHP Básico](https://github.com/operandbr/operand-is-cool/blob/master/PHP-basico/README.md)
+4. PHP OO
+5. Phalcon 2
+6. MySQL - Relacionamentos, Índices e PDO
+7. API REST Básico
+8. Phalcon Micro e Postman [Projeto]
+9. HTML/CSS/JS
+10. Bootstrap
+11. Axios
+12. Vue.js
 
 ### Projeto Final
 Desenvolver uma micro aplicação (API REST em PHP + Bootstrap + Axios + Vue.js) utilizando as técnicas, ferramentas e conhecimentos obtidos no curso.

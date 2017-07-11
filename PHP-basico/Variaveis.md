@@ -85,8 +85,8 @@ var_dump($bool);
 <?php
 
 $usuarios = [
-    'Marvin', 
-    'Trillian', 
+    'Marvin',
+    'Trillian',
     'Arthur',
 ];
 
@@ -131,6 +131,6 @@ echo $usuario['nome'];
 
 ```
 
-[<< Anterior (comentários)](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/PHP-basico/Comentarios.md)
+[<< Anterior (comentários)](https://github.com/operandbr/operand-is-cool/blob/master/PHP-basico/Comentarios.md)
 |
-[Próximo (estruturas condicionais) >>](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/PHP-basico/EstruturasCondicionais.md)
+[Próximo (estruturas condicionais) >>](https://github.com/operandbr/operand-is-cool/blob/master/PHP-basico/EstruturasCondicionais.md)

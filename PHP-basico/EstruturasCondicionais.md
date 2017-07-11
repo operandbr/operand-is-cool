@@ -69,6 +69,6 @@ $resposta = ($numero > 5) ? 'Maior que 5' : 'Menor ou igual a 5';
 
 ```
 
-[<< Anterior (variáveis)](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/PHP-basico/Variaveis.md)
+[<< Anterior (variáveis)](https://github.com/operandbr/operand-is-cool/blob/master/PHP-basico/Variaveis.md)
 |
-[Próximo (Estruturas de repetição) >>](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/PHP-basico/EstruturasRepeticao.md)
+[Próximo (Estruturas de repetição) >>](https://github.com/operandbr/operand-is-cool/blob/master/PHP-basico/EstruturasRepeticao.md)

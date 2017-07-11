@@ -35,6 +35,6 @@ PHPDoc
 
 ```
 
-[<< Anterior](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/PHP-basico/ImprimindoEmTela.md)
+[<< Anterior](https://github.com/operandbr/operand-is-cool/blob/master/PHP-basico/ImprimindoEmTela.md)
 |
-[Próximo >>](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/PHP-basico/Variaveis.md)
+[Próximo >>](https://github.com/operandbr/operand-is-cool/blob/master/PHP-basico/Variaveis.md)

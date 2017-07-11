@@ -10,6 +10,6 @@ echo 'Esta mensagem será exibida na tela';
 echo "Esta mensagem será exibida na tela";
 
 ```
-[<< Anterior (tags)](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/PHP-basico/Tags.md)
+[<< Anterior (tags)](https://github.com/operandbr/operand-is-cool/blob/master/PHP-basico/Tags.md)
 |
-[Próximo (comentários) >>](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/PHP-basico/Comentarios.md)
+[Próximo (comentários) >>](https://github.com/operandbr/operand-is-cool/blob/master/PHP-basico/Comentarios.md)

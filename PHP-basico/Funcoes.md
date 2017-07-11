@@ -89,6 +89,6 @@ exibir('Olá', 'mundo!');
 
 ```
 
-[<< Anterior (estruturas de repetição)](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/PHP-basico/EstruturasRepeticao.md)
+[<< Anterior (estruturas de repetição)](https://github.com/operandbr/operand-is-cool/blob/master/PHP-basico/EstruturasRepeticao.md)
 |
-[Início](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/PHP-basico/README.md)
+[Início](https://github.com/operandbr/operand-is-cool/blob/master/PHP-basico/README.md)

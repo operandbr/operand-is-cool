@@ -84,8 +84,8 @@ for ($contador = 0; $contador < 10; $contador++) {
 <?php
 
 $usuarios = [
-    'Marvin', 
-    'Trillian', 
+    'Marvin',
+    'Trillian',
     'Arthur',
 ];
 
@@ -113,6 +113,6 @@ foreach ($usuarios as $indice => $usuario) {
 
 ```
 
-[<< Anterior (estruturas condicionais)](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/PHP-basico/EstruturasCondicionais.md)
+[<< Anterior (estruturas condicionais)](https://github.com/operandbr/operand-is-cool/blob/master/PHP-basico/EstruturasCondicionais.md)
 |
-[Próximo (funções) >>](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/PHP-basico/Funcoes.md)
+[Próximo (funções) >>](https://github.com/operandbr/operand-is-cool/blob/master/PHP-basico/Funcoes.md)
