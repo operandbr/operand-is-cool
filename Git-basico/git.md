@@ -1,5 +1,7 @@
 # Git básico
 
+[Menu principal](https://github.com/operandbr/operand-is-cool/blob/master/README.md)
+
 Durante a maior parte do período de manutenção do kernel do Linux (1991-2002), as mudanças no software eram repassadas como patches e arquivos compactados.
 
 Em 2002, o projeto do kernel Linux começou a usar um sistema proprietário chamado BitKeeper.
@@ -44,5 +46,3 @@ Enviar os commits do repositório local para o repositório remoto.
 `git pull`
 
 Atualizar o repositório local com as atualizações existentes no repositório remoto.
-
-[Menu principal](https://github.com/operandbr/operand-is-cool/blob/master/README.md)
