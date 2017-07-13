@@ -53,4 +53,4 @@ echo $usuario->getEmail() . '<br>';
 
 [<< Anterior (método)](https://github.com/operandbr/operand-is-cool/blob/master/PHP-OO/Metodo.md)
 |
-Próximo (herança) >>
+[Próximo (herança) >>](https://github.com/operandbr/operand-is-cool/blob/master/PHP-OO/Heranca.md)

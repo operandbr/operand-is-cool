@@ -12,9 +12,9 @@ Conheça mais sobre o projeto e suas datas clicando [aqui](http://iscool.operand
 2. [Docker Básico](https://github.com/operandbr/operand-is-cool/blob/master/Docker-basico/docker.md)
 3. [PHP Básico](https://github.com/operandbr/operand-is-cool/blob/master/PHP-basico/README.md)
 4. [PHP OO](https://github.com/operandbr/operand-is-cool/blob/master/PHP-OO/README.md)
-5. Phalcon 2
-6. MySQL - Relacionamentos, Índices e PDO
-7. API REST Básico
+5. [Phalcon 2](https://github.com/operandbr/operand-is-cool/blob/master/Phalcon/README.md)
+6. [API REST Básico](https://github.com/operandbr/operand-is-cool/blob/master/API-REST/README.md)
+7. [MySQL - Relacionamentos, Índices e PDO](https://github.com/operandbr/operand-is-cool/blob/master/MySQL/README.md)
 8. Phalcon Micro e Postman [Projeto]
 9. HTML/CSS/JS
 10. Bootstrap
