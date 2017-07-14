@@ -1,6 +1,6 @@
 # PHP Básico
 
-[Menu principal](https://github.com/operandbr/operand-is-cool/blob/master/README.md)
+[Menu principal](https://github.com/operandbr/operand-is-cool/blob/master/README.md#conteúdo-proposto)
 
 1. [Tags](https://github.com/operandbr/operand-is-cool/blob/master/PHP-basico/Tags.md)
 2. [Imprimindo valores na tela](https://github.com/operandbr/operand-is-cool/blob/master/PHP-basico/ImprimindoEmTela.md)

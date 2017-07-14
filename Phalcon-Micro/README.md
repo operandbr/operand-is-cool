@@ -1,6 +1,6 @@
 # Micro Applications
 
-[Menu principal](https://github.com/operandbr/operand-is-cool/blob/master/README.md)
+[Menu principal](https://github.com/operandbr/operand-is-cool/blob/master/README.md#conteúdo-proposto)
 
 Como o Phalcon você pode criar aplicações "Micro". Fazendo isto, você só precisa escrever um mínimo de código fonte para criar uma aplicação PHP.
 

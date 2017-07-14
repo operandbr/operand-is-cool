@@ -1,6 +1,6 @@
 # Git básico
 
-[Menu principal](https://github.com/operandbr/operand-is-cool/blob/master/README.md)
+[Menu principal](https://github.com/operandbr/operand-is-cool/blob/master/README.md#conteúdo-proposto)
 
 Durante a maior parte do período de manutenção do kernel do Linux (1991-2002), as mudanças no software eram repassadas como patches e arquivos compactados.
 

@@ -1,6 +1,6 @@
 # PHP OO
 
-[Menu principal](https://github.com/operandbr/operand-is-cool/blob/master/README.md)
+[Menu principal](https://github.com/operandbr/operand-is-cool/blob/master/README.md#conteúdo-proposto)
 
 1. [Classe](https://github.com/operandbr/operand-is-cool/blob/master/PHP-OO/Classe.md)
 2. [Atributo](https://github.com/operandbr/operand-is-cool/blob/master/PHP-OO/Atributo.md)
