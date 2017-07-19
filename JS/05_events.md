@@ -12,5 +12,5 @@ No exemplo acima estamos injetando um trecho de código JS diretamente no HTML, 
 
 Aqui você encontra uma lista com os eventos disponíveis [https://www.w3schools.com/jsref/dom_obj_event.asp](https://www.w3schools.com/jsref/dom_obj_event.asp)
 
-[Próximo](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/JS/06_dom.md)
+[Próximo](https://github.com/operandbr/operand-is-cool/blob/master/JS/06_dom.md)
 
