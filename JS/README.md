@@ -6,4 +6,4 @@ Javascript é uma linguagem baseada em *scripts*, criada em 1995 para ser uma li
 #### Porquê usar
 Com Javascript temos a possibilidade de deixar nossas páginas WEB mais dinâmicas e amigáveis para o usuário final.
 
-[Próximo](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/JS/02_start.md)
+[Próximo](https://github.com/operandbr/operand-is-cool/blob/master/JS/02_start.md)
