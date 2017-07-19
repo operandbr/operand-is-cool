@@ -74,4 +74,4 @@ Existem atributos opcionais que fornecem informações adicionais ao elemento, e
   <img src="/images/operand-is-cool.png" height="100" width="50">
 ```
 
-[Próximo](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/HTML/03_styling.md)
+[Próximo](https://github.com/operandbr/operand-is-cool/blob/master/HTML/03_styling.md)
