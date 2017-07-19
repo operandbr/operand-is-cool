@@ -62,4 +62,4 @@ element.setAttribute('attribute', 'value'); //Cria um novo atributo
 element.style.property = 'new style'; //Altera uma propriedade de CSS inline do elemento
 ```
 
-[Próximo](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/Bootstrap/README.md)
+[Próximo](https://github.com/operandbr/operand-is-cool/blob/master/Bootstrap/README.md)
