@@ -16,9 +16,9 @@ Conheça mais sobre o projeto e suas datas clicando [aqui](http://iscool.operand
 6. [API REST Básico](https://github.com/operandbr/operand-is-cool/blob/master/API-REST/README.md)
 7. [MySQL - Relacionamentos, Índices e PDO](https://github.com/operandbr/operand-is-cool/blob/master/MySQL/README.md)
 8. [Phalcon Micro e Postman [Projeto]](https://github.com/operandbr/operand-is-cool/blob/master/Phalcon-Micro/README.md)
-9. HTML/CSS/JS
-10. Bootstrap
-11. Axios
+9. [HTML/CSS/JS](https://github.com/operandbr/operand-is-cool/blob/master/HTML/README.md)
+10. [Bootstrap](https://github.com/operandbr/operand-is-cool/blob/master/Bootstrap/README.md)
+11. [Axios](https://github.com/operandbr/operand-is-cool/blob/master/Axios/README.md)
 12. Vue.js
 
 ### Projeto Final
