@@ -16,4 +16,4 @@ Elementos podem ser estilizados utilizando o atributo `style`, você poderá def
 </html>
 ```
 
-[Próximo](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/HTML/04_comments.md)
+[Próximo](https://github.com/operandbr/operand-is-cool/blob/master/HTML/04_comments.md)
