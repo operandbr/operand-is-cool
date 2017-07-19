@@ -8,4 +8,4 @@ Exemplo:
 <!-- Isto é um comentário -->
 ```
 
-[Próximo](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/CSS/README.md)
+[Próximo](https://github.com/operandbr/operand-is-cool/blob/master/CSS/README.md)
