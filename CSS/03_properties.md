@@ -52,4 +52,4 @@ body {
 #### Listas
 `list-style-type` => define o tipo de marcador que será utilizado em uma lista (`ul` ou `ol`).
 
-[Próximo](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/JS/README.md)
+[Próximo](https://github.com/operandbr/operand-is-cool/blob/master/JS/README.md)
