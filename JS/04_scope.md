@@ -12,4 +12,4 @@ function myFunction() {
 }
 ```
 
-[Próximo](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/JS/05_events.md)
+[Próximo](https://github.com/operandbr/operand-is-cool/blob/master/JS/05_events.md)
