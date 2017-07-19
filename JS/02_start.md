@@ -22,4 +22,4 @@ A tag `script` nos permite inserir código Javascript em nossas aplicações WEB
 * Pode ser carregado (reutilizado) em diferentes páginas
 * Arquivos JS em cache podem acelerar o carregamento das páginas.
 
-[Próximo](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/JS/03_syntax.md)
+[Próximo](https://github.com/operandbr/operand-is-cool/blob/master/JS/03_syntax.md)
