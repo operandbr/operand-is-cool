@@ -90,4 +90,4 @@ múltiplas
 linhas */
 ```
 
-[Próximo](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/CSS/03_properties.md)
+[Próximo](https://github.com/operandbr/operand-is-cool/blob/master/CSS/03_properties.md)
