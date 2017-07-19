@@ -80,4 +80,4 @@ function multiplica(valor1, valor2) {
 }
 ```
 
-[Próximo](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/JS/04_scope.md)
+[Próximo](https://github.com/operandbr/operand-is-cool/blob/master/JS/04_scope.md)
