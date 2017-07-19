@@ -39,4 +39,4 @@ As tags são os nomes dos elementos que serão renderizados em tela, exemplo:
 4. `<body>` Contém todo conteúdo visível ao usuário final
 5. `<h1>` Tag de título
 
-[Próximo](https://bitbucket.org/devs-operandbr/operand-is-cool/src/master/HTML/02_elements.md)
+[Próximo](https://github.com/operandbr/operand-is-cool/blob/master/HTML/02_elements.md)
